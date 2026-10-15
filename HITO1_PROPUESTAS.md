@@ -11,7 +11,7 @@
 * **Grupo N°:** [Insertar Número de Grupo]
 
 * **Integrantes y Roles:**
-  * **[Nombre Apellido]** - *Moderador/Coordinador* (Gestión de reuniones y cronograma)
+  * **[Fátima Luna Latorre]** - *Moderador/Coordinador* (Gestión de reuniones y cronograma)
   * **[Nombre Apellido]** - *Responsable Técnico / Lead Coder* (Estructura de código en Python)
   * **[Nombre Apellido]** - *Analista / Documentador (Scribe)* (Registro de decisiones e informe)
   * **[Nombre Apellido]** - *Desarrollador / Procesamiento de Señales*

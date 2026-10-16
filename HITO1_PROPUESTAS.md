@@ -13,8 +13,8 @@
 * **Integrantes y Roles:**
   * **[Fátima Luna Latorre]** - *Moderador/Coordinador* (Gestión de reuniones y cronograma)
   * **[Nombre Apellido]** - *Responsable Técnico / Lead Coder* (Estructura de código en Python)
+  * **[Kiara Catalina Furlán]** - *Analista / Documentador (Scribe)* (Registro de decisiones e informe)
   * **[Nombre Apellido]** - *Analista / Documentador (Scribe)* (Registro de decisiones e informe)
-  * **[Nombre Apellido]** - *Desarrollador / Procesamiento de Señales*
   * **[Nombre Apellido]** - *Desarrollador / Procesamiento de Señales*
   * **[Nombre Apellido]** - *Desarrollador / Análisis de Datos*
   * **[Nombre Apellido]** - *Desarrollador / Análisis de Datos*

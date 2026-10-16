@@ -16,7 +16,7 @@
   * **[Kiara Catalina Furlán]** - *Analista / Documentador (Scribe)* (Registro de decisiones e informe)
   * **[Nombre Apellido]** - *Analista / Documentador (Scribe)* (Registro de decisiones e informe)
   * **[Nicolás Nista]** - *Desarrollador / Procesamiento de Señales*
-  * **[Nombre Apellido]** - *Desarrollador / Análisis de Datos*
+  * **[Francisco Nicolás Butus]** - *Desarrollador / Análisis de Datos*
   * **[Nombre Apellido]** - *Desarrollador / Análisis de Datos*
 
 ---
